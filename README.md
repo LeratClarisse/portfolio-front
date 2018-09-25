@@ -1,6 +1,7 @@
 # portfolio-front
 
-> Mon portfolio
+> Un projet Vue.js qui permet de créer un site web portfolio en le connectant à une API REST en json pour récupérer les données.
+Le modèle de donnée sera renseigné prochainement.
 
 ## Build Setup
 
